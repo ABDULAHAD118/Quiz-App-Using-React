@@ -1,0 +1,122 @@
+[
+  {
+      "id": 1,
+      "question": "What is React?",
+      "options": ["Library", "Framework", "Language", "Tool"],
+      "answer": "Library"
+  },
+  {
+      "id": 2,
+      "question": "What is JSX?",
+      "options": ["JavaScript", "XML", "A Syntax", "Both JavaScript and XML"],
+      "answer": "Both JavaScript and XML"
+  },
+  {
+      "id": 3,
+      "question": "What does 'useState' hook do?",
+      "options": ["Manages state", "Manages side effects", "Handles API calls", "None of the above"],
+      "answer": "Manages state"
+  },
+  {
+      "id": 4,
+      "question": "Which company developed React?",
+      "options": ["Google", "Facebook", "Microsoft", "Amazon"],
+      "answer": "Facebook"
+  },
+  {
+      "id": 5,
+      "question": "What is a component in React?",
+      "options": ["A function", "A class", "A UI building block", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "id": 6,
+      "question": "What is a 'prop' in React?",
+      "options": ["Component's method", "Component's property", "Component's lifecycle", "Component's state"],
+      "answer": "Component's property"
+  },
+  {
+      "id": 7,
+      "question": "What is a 'state' in React?",
+      "options": ["A component's persistent data", "A component's temporary data", "A component's method", "None of the above"],
+      "answer": "A component's temporary data"
+  },
+  {
+      "id": 8,
+      "question": "What does 'useEffect' hook do?",
+      "options": ["Manages state", "Manages side effects", "Handles events", "Handles routing"],
+      "answer": "Manages side effects"
+  },
+  {
+      "id": 9,
+      "question": "What is a 'key' prop in React?",
+      "options": ["A unique identifier for elements", "A function handler", "A CSS property", "None of the above"],
+      "answer": "A unique identifier for elements"
+  },
+  {
+      "id": 10,
+      "question": "What is the purpose of 'ReactDOM.render'?",
+      "options": ["To compile JSX", "To render React elements to the DOM", "To manage states", "To handle props"],
+      "answer": "To render React elements to the DOM"
+  },
+  {
+      "id": 11,
+      "question": "What does 'React.Fragment' do?",
+      "options": ["Combines states", "Wraps multiple elements", "Manages side effects", "Handles routing"],
+      "answer": "Wraps multiple elements"
+  },
+  {
+      "id": 12,
+      "question": "What is a 'PureComponent' in React?",
+      "options": ["A component with only state", "A component without lifecycle methods", "A component that only re-renders with state or prop changes", "None of the above"],
+      "answer": "A component that only re-renders with state or prop changes"
+  },
+  {
+      "id": 13,
+      "question": "How do you pass data between React components?",
+      "options": ["Using props", "Using state", "Using hooks", "Using lifecycle methods"],
+      "answer": "Using props"
+  },
+  {
+      "id": 14,
+      "question": "What does 'componentDidMount' do?",
+      "options": ["Updates state", "Runs after the component is rendered", "Manages routing", "Handles user input"],
+      "answer": "Runs after the component is rendered"
+  },
+  {
+      "id": 15,
+      "question": "What is a 'HOC' (Higher-Order Component) in React?",
+      "options": ["A component that manages events", "A component that wraps another component", "A component that handles routing", "None of the above"],
+      "answer": "A component that wraps another component"
+  },
+  {
+      "id": 16,
+      "question": "What is 'Redux' in the context of React?",
+      "options": ["A JavaScript framework", "A library for managing state", "A CSS framework", "A UI component library"],
+      "answer": "A library for managing state"
+  },
+  {
+      "id": 17,
+      "question": "What does 'context' API in React do?",
+      "options": ["Manages global state", "Handles side effects", "Manages routing", "Handles component lifecycle"],
+      "answer": "Manages global state"
+  },
+  {
+      "id": 18,
+      "question": "What is 'PropTypes' used for in React?",
+      "options": ["Defining component's properties", "Validating props", "Managing state", "Handling events"],
+      "answer": "Validating props"
+  },
+  {
+      "id": 19,
+      "question": "What is the 'virtual DOM' in React?",
+      "options": ["A virtual environment for testing", "A DOM object that is not part of the browser's DOM", "A representation of the UI kept in memory", "None of the above"],
+      "answer": "A representation of the UI kept in memory"
+  },
+  {
+      "id": 20,
+      "question": "What is the difference between 'state' and 'props' in React?",
+      "options": ["State is mutable, props are immutable", "State is for parent components, props are for child components", "State is managed by Redux, props by React", "None of the above"],
+      "answer": "State is mutable, props are immutable"
+  }
+]
